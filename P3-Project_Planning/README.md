@@ -8,7 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+ * https://github.com/allietowe/liftoff-assignments/blob/master/P3-Project_Planning/Screen%201.png
+ * https://github.com/allietowe/liftoff-assignments/blob/master/P3-Project_Planning/Landing%20Page.png
+ * https://github.com/allietowe/liftoff-assignments/blob/master/P3-Project_Planning/Add%20Plant.png
+ * https://github.com/allietowe/liftoff-assignments/blob/master/P3-Project_Planning/Plant%20Info.png
+ * https://github.com/allietowe/liftoff-assignments/blob/master/P3-Project_Planning/Pests.png
 
 ### Project Tracker
 
