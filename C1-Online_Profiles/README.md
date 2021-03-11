@@ -7,7 +7,7 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/allietowe/Thyme
+https://github.com/allietowe/
  
 ### LinkedIn
 https://www.linkedin.com/in/allie-towe-ba87b81bb/
